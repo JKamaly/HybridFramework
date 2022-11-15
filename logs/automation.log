@@ -1,0 +1,74 @@
+08:42:55.561 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on continue
+08:42:55.590 [main] INFO  testCases.TC_001_AccountRegisteration - Validating expected message
+08:42:55.592 [main] INFO  testCases.TC_001_AccountRegisteration - ***Finished logging test***
+08:42:57.020 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest
+08:42:57.401 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount
+08:42:57.624 [main] INFO  testCases.TC_002_LoginTest - Clicked on Register Link
+08:42:57.625 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+08:42:58.050 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+08:42:58.082 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest***
+14:15:24.040 [main] INFO  testCases.TC_001_AccountRegisteration - *** Starting TC_001_AccountRegisteration ***
+14:15:24.226 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on account link
+14:15:24.475 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on register link
+14:15:24.476 [main] INFO  testCases.TC_001_AccountRegisteration - Providing customer data
+14:15:34.832 [main] ERROR testCases.TC_001_AccountRegisteration - Test failed
+14:15:36.408 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest
+14:15:36.633 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount
+14:15:36.821 [main] INFO  testCases.TC_002_LoginTest - Clicked on Register Link
+14:15:36.822 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+14:15:37.260 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+14:15:37.289 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest***
+14:15:38.577 [main] INFO  testCases.TC_004_SearchPage - ***Started TC_004_SearchPage****
+14:15:38.624 [main] INFO  testCases.TC_004_SearchPage - Clicked on myAccountLink
+14:15:38.830 [main] INFO  testCases.TC_004_SearchPage - Clicked on myRegisterLink
+14:15:38.830 [main] INFO  testCases.TC_004_SearchPage - Provided email and password
+14:15:39.191 [main] INFO  testCases.TC_004_SearchPage - Clicked on continue button
+14:15:39.433 [main] INFO  testCases.TC_004_SearchPage - Clicked on my HomePage
+14:15:39.476 [main] INFO  testCases.TC_004_SearchPage - Searched for iPhone on the search bar
+14:15:49.501 [main] INFO  testCases.TC_004_SearchPage - Validating iPhone presence
+14:15:49.541 [main] INFO  testCases.TC_004_SearchPage - Clicked on add to cart button
+14:15:49.562 [main] INFO  testCases.TC_004_SearchPage - Validating add to cart success message
+14:15:49.643 [main] INFO  testCases.TC_004_SearchPage - Validating add to cart total is present
+14:15:49.643 [main] INFO  testCases.TC_004_SearchPage - ***Finished TC_004_SearchPage****
+14:16:47.497 [main] INFO  testCases.TC_001_AccountRegisteration - *** Starting TC_001_AccountRegisteration ***
+14:16:47.556 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on account link
+14:16:47.792 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on register link
+14:16:47.793 [main] INFO  testCases.TC_001_AccountRegisteration - Providing customer data
+14:16:58.149 [main] INFO  testCases.TC_001_AccountRegisteration - Test failed
+14:16:59.687 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest
+14:16:59.730 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount
+14:16:59.931 [main] INFO  testCases.TC_002_LoginTest - Clicked on Register Link
+14:16:59.932 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+14:17:00.313 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+14:17:00.342 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest***
+14:17:01.569 [main] INFO  testCases.TC_004_SearchPage - ***Started TC_004_SearchPage****
+14:17:01.793 [main] INFO  testCases.TC_004_SearchPage - Clicked on myAccountLink
+14:17:01.981 [main] INFO  testCases.TC_004_SearchPage - Clicked on myRegisterLink
+14:17:01.981 [main] INFO  testCases.TC_004_SearchPage - Provided email and password
+14:17:02.330 [main] INFO  testCases.TC_004_SearchPage - Clicked on continue button
+14:17:02.540 [main] INFO  testCases.TC_004_SearchPage - Clicked on my HomePage
+14:17:02.587 [main] INFO  testCases.TC_004_SearchPage - Searched for iPhone on the search bar
+14:17:22.982 [main] INFO  testCases.TC_004_SearchPage - Validating iPhone presence
+14:18:41.153 [main] INFO  testCases.TC_001_AccountRegisteration - *** Starting TC_001_AccountRegisteration ***
+14:18:41.468 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on account link
+14:18:41.747 [main] INFO  testCases.TC_001_AccountRegisteration - Clicked on register link
+14:18:41.752 [main] INFO  testCases.TC_001_AccountRegisteration - Providing customer data
+14:18:52.176 [main] INFO  testCases.TC_001_AccountRegisteration - Test failed
+14:18:53.791 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest
+14:18:54.153 [main] INFO  testCases.TC_002_LoginTest - Clicked on myAccount
+14:18:54.361 [main] INFO  testCases.TC_002_LoginTest - Clicked on Register Link
+14:18:54.362 [main] INFO  testCases.TC_002_LoginTest - Providing login details
+14:18:54.745 [main] INFO  testCases.TC_002_LoginTest - Clicked on login button
+14:18:54.785 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest***
+14:18:56.164 [main] INFO  testCases.TC_004_SearchPage - ***Started TC_004_SearchPage****
+14:18:56.525 [main] INFO  testCases.TC_004_SearchPage - Clicked on myAccountLink
+14:18:56.762 [main] INFO  testCases.TC_004_SearchPage - Clicked on myRegisterLink
+14:18:56.762 [main] INFO  testCases.TC_004_SearchPage - Provided email and password
+14:18:57.151 [main] INFO  testCases.TC_004_SearchPage - Clicked on continue button
+14:18:57.435 [main] INFO  testCases.TC_004_SearchPage - Clicked on my HomePage
+14:18:57.479 [main] INFO  testCases.TC_004_SearchPage - Searched for iPhone on the search bar
+14:19:07.530 [main] INFO  testCases.TC_004_SearchPage - Validating iPhone presence
+14:19:07.573 [main] INFO  testCases.TC_004_SearchPage - Clicked on add to cart button
+14:19:07.594 [main] INFO  testCases.TC_004_SearchPage - Validating add to cart success message
+14:19:07.675 [main] INFO  testCases.TC_004_SearchPage - Validating add to cart total is present
+14:19:07.675 [main] INFO  testCases.TC_004_SearchPage - ***Finished TC_004_SearchPage****
